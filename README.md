@@ -27,6 +27,4 @@ Here are some ideas to get you started:
 
 [![Instagram](https://img.shields.io/badge/Instagram-lightgray?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/1._.r_zx1/)
 
-#### music
-
 [![Youtube](https://img.shields.io/badge/Music-orange?style=flat-square&logo=soundcloud&logoColor=black)](https://soundcloud.com/hyewon-park-7/m4ipaee1mk3r?si=2dc336c588a94dd5b209aa331b66a989)
