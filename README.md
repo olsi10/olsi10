@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **olsi10/olsi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,5 +22,3 @@ Here are some ideas to get you started:
 #### My
 
 [![Blog](https://img.shields.io/badge/log-00000?style=flat-square&logo=Bloglovin&logoColor=black)](https://blog.naver.com/cyyyy2005) [![Instagram](https://img.shields.io/badge/Instagram-lightgray?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/1._.r_zx1/) [![Youtube](https://img.shields.io/badge/Music-orange?style=flat-square&logo=soundcloud&logoColor=black)](https://soundcloud.com/hyewon-park-7/m4ipaee1mk3r?si=2dc336c588a94dd5b209aa331b66a989)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
