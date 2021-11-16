@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 #### My
 
-[![Blog](https://img.shields.io/badge/log-00000?style=flat-square&logo=Bloglovin&logoColor=black)](https://blog.naver.com/cyyyy2005) [![Instagram](https://img.shields.io/badge/Instagram-lightgray?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/1._.r_zx1/) [![Youtube](https://soundcloud.com/audee/dream-a-little-dream-of-me-by-mama-cass-cover)
+[![Blog](https://img.shields.io/badge/log-00000?style=flat-square&logo=Bloglovin&logoColor=black)](https://blog.naver.com/cyyyy2005) [![Instagram](https://img.shields.io/badge/Instagram-lightgray?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/1._.r_zx1/) [![Youtube](https://img.shields.io/badge/log-orange?style=flat-square&logosoundcloud&logoColor=black)](https://soundcloud.com/audee/dream-a-little-dream-of-me-by-mama-cass-cover)
