@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 [![Java](https://img.shields.io/badge/Java-03A9F4?style=flat-square&logo=Java&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-32533D?style=flat-square&logo=javascript&logoColor=white)]() [![C](https://img.shields.io/badge/-5C946E?style=flat-square&logo=C&logoColor=black)]()  [![HTML](https://img.shields.io/badge/html5-80C2AF?style=flat-square&logo=html5&logoColor=black)]()  [![CSS](https://img.shields.io/badge/CSS-A0DDE6?style=flat-square&logo=css3&logoColor=black)]()
 
+#### Be to do😋
+[![Python](https://img.shields.io/badge/Java-03A9F4?style=flat-square&logo=Python&logoColor=blue)]()
+
+
 #### My👻
 
 [![Blog](https://img.shields.io/badge/log-00000?style=flat-square&logo=Bloglovin&logoColor=black)](https://blog.naver.com/wangbampang2035) [![Instagram](https://img.shields.io/badge/Instagram-lightgray?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/1._.r_zx1/) [![Youtube](https://img.shields.io/badge/Soundcloud-orange?style=flat-square&logo=soundcloud&logoColor=black)](https://soundcloud.com/audee/dream-a-little-dream-of-me-by-mama-cass-cover)
