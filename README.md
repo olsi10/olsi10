@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![velog](https://img.shields.io/badge/log-00000?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@olsi10) [![Instagram](https://img.shields.io/badge/Instagram-lightgray?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/1._.r_zx1/) [![Youtube](https://img.shields.io/badge/Soundcloud-orange?style=flat-square&logo=soundcloud&logoColor=black)](https://soundcloud.com/audee/dream-a-little-dream-of-me-by-mama-cass-cover)
 
 ###status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?olsi10=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olsi10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--![olsi10's github stats](https://github-readme-stats.vercel.app/api?username=olsi10&show_icons=true)
