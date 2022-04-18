@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=ChairmanOf/GitHub%20&fontSize=90)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=B7B7B7&lines=Hi!;I+Love+Green.+.+.+%E2%9C%94;%E3%80%8EI'm+doing+my+Best%E3%80%8F)](https://git.io/typing-svg)
