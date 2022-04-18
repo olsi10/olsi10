@@ -25,7 +25,7 @@
 
 -------
 
-#### Github stats
+#### Github stats 🍴
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=olsi10&bg_color=ffffff&color=708090&line=91eda0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
