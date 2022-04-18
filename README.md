@@ -8,6 +8,7 @@
 <a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/Html5-white?style=Html5&logo=Html5&logoColor=#E34F264"/></a>
 <a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/Css3-gray?style=Css3&logo=Css3&logoColor=#1572B6"/></a>
 
+-------
 
 #### My👻
 
