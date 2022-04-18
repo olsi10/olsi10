@@ -25,7 +25,7 @@
 ------
 
 ### 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olsi10&show_icons=true&theme=chartreuse-dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olsi10&show_icons=true&theme=chartreuse-dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olsi10&layout=compact)](https://github.com/olsi10/github-readme-stats)
 
 
 <!--![olsi10's github stats](https://github-readme-stats.vercel.app/api?username=olsi10&show_icons=true)
