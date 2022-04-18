@@ -20,7 +20,7 @@
 
 -------
 #### Git View💦
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folsi10%2Folsi10.git&count_bg=%23000000&title_bg=%23464646&icon=github.svg&icon_color=%23000000&title=Git+View&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folsi10%2Folsi10.git&count_bg=%2371B73B&title_bg=%2371B73B&icon=github.svg&icon_color=%23000000&title=Git+View&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ------
 
