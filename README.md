@@ -4,7 +4,7 @@
 
 #### My skills👽
 
-<a href="https://github.com/olsi10/Java-2021.git" target="_blank"><img src="https://img.shields.io/badge/Java-blue?style=Java&logo=Java&logoColor=#007396"/></a>
+<a href="https://github.com/olsi10/Java-2021.git" target="_blank"><img src="https://img.shields.io/badge/Java-blue?style=Java&logo=Java&logoColor=#007396"/></a> <a href="https://github.com/olsi10/JS.git" target="_blank"><img src="https://img.shields.io/badge/JavaScript-yellow?style=JavaScrpt&logo=Java&logoColor=##F7DF1E"/></a>
 
 
 #### My👻
