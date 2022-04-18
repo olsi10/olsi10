@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=ChairmanOf/GitHub%20&fontSize=90)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=1DAB1B&background=FFFFFF00&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&lines=Hello%2C+World!;I+Love+Green;+%E3%80%8EI'm+doing+my+BEST%E3%80%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=B7B7B7&lines=Hi!;I+Love+Green.+.+.+%E2%9C%94;%E3%80%8EI'm+doing+my+Best%E3%80%8F)](https://git.io/typing-svg)
 
 - 🌱 Mirim Girls' Information Science High School 
 
