@@ -4,7 +4,7 @@
 
 #### My skills👽
 
-[![Java](https://img.shields.io/badge/Java-03A9F4?style=flat-square&logo=Java&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-32533D?style=flat-square&logo=javascript&logoColor=white)]() [![C](https://img.shields.io/badge/-5C946E?style=flat-square&logo=C&logoColor=black)]()  [![HTML](https://img.shields.io/badge/html5-80C2AF?style=flat-square&logo=html5&logoColor=black)]()  [![CSS](https://img.shields.io/badge/CSS-A0DDE6?style=flat-square&logo=css3&logoColor=black)]() [![Python](https://img.shields.io/badge/Python-73D5EE?style=flat-square&logo=Python&logoColor=yellow)]() [![Android](https://img.shields.io/badge/Andoriod-1D5B36?style=flat-square&logo=Python&logoColor=green)]()
+<a href="https://github.com/olsi10/Java-2021.git" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-brown?style=Java&logo=Java&logoColor=#007396"/></a>
 
 
 #### My👻
