@@ -27,7 +27,7 @@
 
 #### Github stats
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=olsi10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=olsi10&bg_color=fffff0&color=708090&line=24292e)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### Git View💦
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folsi10%2Folsi10.git&count_bg=%2371B73B&title_bg=%2371B73B&icon=github.svg&icon_color=%23000000&title=Git+View&edge_flat=true)](https://hits.seeyoufarm.com)
