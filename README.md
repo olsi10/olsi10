@@ -4,7 +4,7 @@
 
 #### My skills👽
 
-<a href="https://github.com/olsi10/Java-2021.git" target="_blank"><img src="https://img.shields.io/badge/Java-blue?style=Java&logo=Java&logoColor=#007396"/></a> <a href="https://github.com/olsi10/JS.git" target="_blank"><img src="https://img.shields.io/badge/Javascript-black?style=Javascript&logo=Javascript&logoColor=#F7DF1E"/></a> <a href="https://github.com/olsi10/Language-C.git" target="_blank"><img src="https://img.shields.io/badge/C-gray?style=C&logo=C&logoColor=##A8B9CC"/></a> <a href="https://github.com/olsi10/Python.git" target="_blank"><img src="https://img.shields.io/badge/Python-yellow?style=Python&logo=Python&logoColor=#3776AB"/></a>
+<a href="https://github.com/olsi10/Java-2021.git" target="_blank"><img src="https://img.shields.io/badge/Java-blue?style=Java&logo=Java&logoColor=#007396"/></a> <a href="https://github.com/olsi10/JS.git" target="_blank"><img src="https://img.shields.io/badge/Javascript-black?style=Javascript&logo=Javascript&logoColor=#F7DF1E"/></a> <a href="https://github.com/olsi10/Language-C.git" target="_blank"><img src="https://img.shields.io/badge/C-gray?style=C&logo=C&logoColor=##A8B9CC"/></a> <a href="https://github.com/olsi10/Python.git" target="_blank"><img src="https://img.shields.io/badge/Python-lightyellow?style=Python&logo=Python&logoColor=#3776AB"/></a>
 
 
 #### My👻
