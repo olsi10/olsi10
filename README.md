@@ -2,7 +2,7 @@
 
 ###### If you don't see the text above, press F5.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=B7B7B7&lines=Hi!;I+Love+Green.+.+.+%E2%9C%94;%E3%80%8EI'm+doing+my+Best%E3%80%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=5DB154&lines=Hi!+;I+Love+Green;%E3%80%8EI'm+doing+my+best%E3%80%8F)](https://git.io/typing-svg)
 
 ------
 
