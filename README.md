@@ -18,6 +18,11 @@
 
 [![Velog](https://img.shields.io/badge/log-00000?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@olsi10) [![Instagram](https://img.shields.io/badge/Instagram-lightgray?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/1._.r_zx1/) [![Youtube](https://img.shields.io/badge/Soundcloud-orange?style=flat-square&logo=soundcloud&logoColor=black)](https://soundcloud.com/audee/dream-a-little-dream-of-me-by-mama-cass-cover)
 
+------
+
+#### Streak stats 🔥
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olsi10&theme=vue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 -------
 #### Git View💦
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folsi10%2Folsi10.git&count_bg=%2371B73B&title_bg=%2371B73B&icon=github.svg&icon_color=%23000000&title=Git+View&edge_flat=true)](https://hits.seeyoufarm.com)
