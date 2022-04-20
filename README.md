@@ -1,7 +1,5 @@
 <div align = "center">
-  <h6>Press f5 to change the color</h6>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=lucida+handwriting&size=30&color=auto&background=8BFF9700&center=true&vCenter=true&lines=Hi!+Yo..Y...o...Yo!;I+Love+Green.+.+.+%F0%9F%8C%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=viner+hand+itc&size=50&color=D45600B8&width=500&height=70&lines=Hi!+Y..o..yo...Yo!!!;I+Love+Green.+.+.+%F0%9F%A5%A6)](https://git.io/typing-svg)
                   </div>
 ------
 
