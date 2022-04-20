@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=ChairmanOf/GitHub%20&fontSize=90)
 
+<div allign = "center">
 ###### If you don't see the text above, press F5.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&duration=4500&color=5DB154&lines=Hi!+;I+Love+Green.+.+.+%F0%9F%A5%A6;%E3%80%8EI'm+doing+my+best%E3%80%8F)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bradley+Hand+itc&size=30&duration=3500&color=17782E&background=FFFFFF32&lines=Hi!+Yo..+Y...+o+...+Yo!;I+Love+Green.+.+.+%F0%9F%A5%A6)](https://git.io/typing-svg)
+                  </div>
 ------
 
 #### My skills👽
