@@ -1,5 +1,5 @@
 <div align = "center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=lucida+handwriting&size=50&color=27582890&background=8BFF9700&center=true&vCenter=true&lines=Hi!+Yo..Y...o...Yo!;I+Love+Green.+.+.+%F0%9F%8C%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=lucida+handwriting&size=30&color=27582890&background=8BFF9700&center=true&vCenter=true&lines=Hi!+Yo..Y...o...Yo!;I+Love+Green.+.+.+%F0%9F%8C%B3)](https://git.io/typing-svg)
                   </div>
 ------
 
