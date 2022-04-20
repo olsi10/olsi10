@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=ChairmanOf/GitHub%20&fontSize=90)
-
 <div align = "center">
   <h6>If you don't see the text above, press F5.</h6>
 
