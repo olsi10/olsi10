@@ -1,5 +1,5 @@
 <div align = "center">
-  <h6>If you don't see the text above, press F5.</h6>
+  <h6>Press f5 to change the color</h6>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=lucida+handwriting&size=30&color=auto&background=8BFF9700&center=true&vCenter=true&lines=Hi!+Yo..Y...o...Yo!;I+Love+Green.+.+.+%F0%9F%8C%B3)](https://git.io/typing-svg)
                   </div>
