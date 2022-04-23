@@ -1,6 +1,6 @@
 <div align = "center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=viner+hand+itc&size=50&color=D45600B8&width=500&height=70&lines=Hi!+Y..o..yo...Yo!!!;I+Love+Green.+.+.+%F0%9F%A5%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&color=7C7C7C&center=true&lines=Hi..+y..o..+yo..+yo!!;I+Love+Green.+.+.+%F0%9F%A5%A6)](https://git.io/typing-svg)
  </div>
 
 #### My skills👽
