@@ -1,5 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeauto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&size=30&color=32BE29&center=true&lines=Hey+There!+%E2%9C%A8;I+Love+Green+%F0%9F%8C%B3)](https://git.io/typing-svg)
- </div>
+
 
 #### My skills👽
 
