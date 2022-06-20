@@ -1,6 +1,8 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=HELLO&fontAlign=70&rotate=13&fontAlignY=25&desc=i'm%20Yun%20Young&descAlign=70.&descAlignY=44)
 
 
+<div align=center>
+
 #### My skills
 
 <a href="https://github.com/olsi10/Language-C.git" target="_blank"><img src="https://img.shields.io/badge/C-75bc63?style=C&logo=C&logoColor=white"/></a>
@@ -22,3 +24,4 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=olsi10&bg_color=ffffff&color=708090&line=91eda0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
