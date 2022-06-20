@@ -1,11 +1,9 @@
-<div align = "center">
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&size=30&color=32BE29&center=true&lines=Hey+There!+%E2%9C%A8;I+Love+Green+%F0%9F%8C%B3)](https://git.io/typing-svg)
  </div>
 
 #### My skills👽
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" height="71" /></div><a href="https://github.com/olsi10/Language-C.git" target="_blank"><img src="https://img.shields.io/badge/C-darkblue?style=C&logo=C&logoColor=##A8B9CC"/></a> <a href="https://github.com/olsi10/Python.git" target="_blank"><img src="https://img.shields.io/badge/Python-lightblue?style=Python&logo=Python&logoColor=#3776AB"/></a> <a href="https://github.com/olsi10/Android_Java.git" target="_blank"><img src="https://img.shields.io/badge/Android-black?style=Android&logo=Android&logoColor=#3DDC84"/></a>
+<a href="https://github.com/olsi10/Language-C.git" target="_blank"><img src="https://img.shields.io/badge/C-darkblue?style=C&logo=C&logoColor=##A8B9CC"/></a> <a href="https://github.com/olsi10/Python.git" target="_blank"><img src="https://img.shields.io/badge/Python-lightblue?style=Python&logo=Python&logoColor=#3776AB"/></a> <a href="https://github.com/olsi10/Android_Java.git" target="_blank"><img src="https://img.shields.io/badge/Android-black?style=Android&logo=Android&logoColor=#3DDC84"/></a>
 <a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/Html5-white?style=Html5&logo=Html5&logoColor=#E34F264"/></a>
 <a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/Css3-gray?style=Css3&logo=Css3&logoColor=#1572B6"/></a>
 
