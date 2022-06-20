@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=6eaa5e&height=300&section=header&text=Yun Young Choi%20render&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello%20I'm%Yun%Young&fontAlign=75&fontAlign=60&fontSize=60&rotate=17)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&size=30&color=32BE29&center=true&lines=Hey+There!+%E2%9C%A8;I+Love+Green+%F0%9F%8C%B3)](https://git.io/typing-svg)
 
