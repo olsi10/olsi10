@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&size=30&color=32BE29&center=true&lines=Hey+There!+%E2%9C%A8;I+Love+Green+%F0%9F%8C%B3)](https://git.io/typing-svg)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=HELLO&fontAlign=70&rotate=13&fontAlignY=25&desc=i'm%20Yun%20Young&descAlign=70.&descAlignY=44)
 
 
 #### My skills
