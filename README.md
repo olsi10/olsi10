@@ -20,8 +20,5 @@
 #### Streak stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olsi10&theme=vue&date_format=M%20j%5B%2C%20Y%5D)]
 
-#### Github stats
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=olsi10&bg_color=ffffff&color=708090&line=91eda0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
