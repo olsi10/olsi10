@@ -15,9 +15,3 @@
 [![vlog](https://img.shields.io/badge/log-75bc63?style=flat-square&logo=BlogLovin&logoColor=white)](https://blog.naver.com/wangbampang2035) [![Velog](https://img.shields.io/badge/log-75bc63?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@olsi10) [![Instagram](https://img.shields.io/badge/Instagram-75bc63?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/1._.r_zx1/)
 
 ------
-
-#### Status
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olsi10&theme=vue&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
