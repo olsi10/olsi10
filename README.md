@@ -8,7 +8,7 @@
 <a href="https://github.com/olsi10/Python.git" target="_blank"><img src="https://img.shields.io/badge/Python-75bc63?style=Python&logo=Python&logoColor=white"/></a> <a href="https://github.com/olsi10/Android_Java.git" target="_blank"><img src="https://img.shields.io/badge/Android-75bc63?style=Android&logo=Android&logoColor=white"/></a>
 <a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/HTML5-75bc63?style=HTML5&logo=HTML5&logoColor=white"/></a>
 <a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/CSS3-75bc63?style=CSS3&logo=CSS3&logoColor=white"/></a>
-<a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/JavaScript-75bc63?style=javascript&logo=javascript&logoColor=white"/></a>
+<a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/React-75bc63?style=react&logo=react&logoColor=white"/></a><a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/React-75bc63?style=react&logo=react&logoColor=white"/></a>
 
 
 #### My
