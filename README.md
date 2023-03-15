@@ -9,6 +9,7 @@
 <a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/HTML5-75bc63?style=HTML5&logo=HTML5&logoColor=white"/></a>
 <a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/CSS3-75bc63?style=CSS3&logo=CSS3&logoColor=white"/></a>
 <a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/React-75bc63?style=react&logo=react&logoColor=white"/></a>
+<a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/Django-75bc63?style=django&logo=django&logoColor=white"/></a>
 
 
 #### My
