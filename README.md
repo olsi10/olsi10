@@ -4,12 +4,12 @@
 
 #### My skills
 
-<a href="https://github.com/olsi10/Language-C.git" target="_blank"><img src="https://img.shields.io/badge/JAVA-75bc63?style=JAVA&logo=java&logoColor=white"/></a> <a href="https://github.com/olsi10/Language-C.git" target="_blank"><img src="https://img.shields.io/badge/C-75bc63?style=C&logo=C&logoColor=white"/></a>
-<a href="https://github.com/olsi10/Python.git" target="_blank"><img src="https://img.shields.io/badge/Python-75bc63?style=Python&logo=Python&logoColor=white"/></a> <a href="https://github.com/olsi10/Android_Java.git" target="_blank"><img src="https://img.shields.io/badge/Android-75bc63?style=Android&logo=Android&logoColor=white"/></a>
-<a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/HTML5-75bc63?style=HTML5&logo=HTML5&logoColor=white"/></a>
-<a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/CSS3-75bc63?style=CSS3&logo=CSS3&logoColor=white"/></a>
-<a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/React-75bc63?style=react&logo=react&logoColor=white"/></a>
-<a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/Django-75bc63?style=django&logo=django&logoColor=white"/></a>
+<a href="https://github.com/olsi10/Language-C.git" target="_blank"><img src="https://img.shields.io/badge/Java-75bc63?style=java&logo=java&logoColor=white"/></a>
+    <a href="https://github.com/olsi10/Language-C.git" target="_blank"><img src="https://img.shields.io/badge/Spring-75bc63?style=Spring&logo=Spring&logoColor=white"/></a>
+  <a href="https://github.com/olsi10/Language-C.git" target="_blank"><img src="https://img.shields.io/badge/Javascript-75bc63?style=Javascript&logo=Javascript&logoColor=white"/></a> <a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/React-75bc63?style=react&logo=react&logoColor=white"/></a>
+  <a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/Node.js-75bc63?style=Node.js&logo=Node.js&logoColor=white"/></a>
+<a href="https://github.com/olsi10/Python.git" target="_blank"><img src="https://img.shields.io/badge/Python-75bc63?style=Python&logo=Python&logoColor=white"/></a> <a href="https://github.com/olsi10/WSM_2311.git" target="_blank"><img src="https://img.shields.io/badge/Django-75bc63?style=django&logo=django&logoColor=white"/></a> <a href="https://github.com/olsi10/Android_Java.git" target="_blank"><img src="https://img.shields.io/badge/Android-75bc63?style=Android&logo=Android&logoColor=white"/></a>
+
 
 
 #### My
