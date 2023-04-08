@@ -14,6 +14,6 @@
 
 #### My
 
-[![Velog](https://img.shields.io/badge/log-75bc63?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@olsi10) [![Instagram](https://img.shields.io/badge/Instagram-75bc63?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/1._.r_zx1/)
+[![Velog](https://img.shields.io/badge/log-75bc63?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@olsi10) [![Instagram]
 
 ------
