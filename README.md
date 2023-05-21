@@ -17,3 +17,7 @@
 [![Velog](https://img.shields.io/badge/log-75bc63?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@olsi10)
 
 ------
+
+#### My Life
+    
+![image](https://github.com/olsi10/olsi10/assets/87300199/68a29863-333d-4580-83bd-26ae97dab900)
